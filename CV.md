@@ -8,21 +8,14 @@ Montréal - Rosemont
 ### Éducation
 
 - Université de Montréal
-  - D.E.S.S. en édition numérique - septembre 2020 à aujourd'hui
+  - D.E.S.S. en édition numérique - septembre 2020 à décembre 2021
   - Baccalauréat ès arts (majeure en littératures de langue française) - septembre 2016 à mai 2020
 
 
 ### Expérience
 
-- Testeur de logiciels pour Druide - mai 2021 à aujourd'hui
 
-  - Effectuer des tests logiciels
-  - Rédaction de rapports d'erreur
-  - Connaissance de JIRA et TestRail
-  - Réfléchir et améliorer l'expérience utilisateur
-
-
-- Éditeur web pour TeamInside - octobre 2019 à novembre 2020
+- Éditeur Web pour TeamInside - octobre 2019 à novembre 2020
 
   - Édition des articles
   - Veille de l'actualité
@@ -46,7 +39,6 @@ Montréal - Rosemont
 ### Compétences
 
 - Anglais fonctionnel
-- Contributeur de Wikipédia
 - Connaissance du protocole Git
 - Connaissances de base de HTML et JavaScript
 - Révision et rédaction de textes (français uniquement)

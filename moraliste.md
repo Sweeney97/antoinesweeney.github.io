@@ -69,17 +69,17 @@ Par exemple, dans le fragment 779 (« Je ne trouve rien de si aisé que de trai
 Mais je ne trouve rien de plus difficile que d'y répondre[^37] »), le « je » s'applique à n'importe qui puisqu'il est toujours facile de discréditer ce avec quoi nous sommes en désaccord, mais c'est une autre paire de manches que d'expliquer précisément pourquoi de manière logique et convaincante.
 Un autre exemple, cette fois-ci avec des enfants : « Mien, tien.  "Ce chien est à moi ", disaient ces pauvres enfants. [...] Voilà le commencement et l'image de l'usurpation de toute la terre[^38] ».
 Encore une fois, Pascal parle des hommes, de tous les hommes, par le couvert d'une métaphore : tous sont égoïstes.
-Parfois aussi Pascal utilise un style impersonnel, ou carrément parle des hommes, ou encore utilise le pronom « on » (mais étymologiquement c'est semblable, puisque « on » vient de « homme ») ainsi que le « nous ».
+Parfois aussi, Pascal utilise un style impersonnel, ou carrément parle des hommes, ou encore utilise le pronom « on » (mais étymologiquement c'est semblable, puisque « on » vient de « homme ») ainsi que le « nous ».
 Finalement, on peut même y lire le « tu », au fragment 342 par exemple : « es-tu moins esclave pour être aimé et flatté de ton maître?[^39] ».
 Encore une fois, cette citation, sous couvert du « tu », implique tous les hommes qui sont en situation d'assujettissement.
 Par exemple, autant qu'un autre, Pascal est sujet du Roi.
 Enfin ce sont toutes des stratégies d'écriture similaires qui montrent un glissement entre signifié et référent et cela illustre à la fois l'impersonnalité et la généralité caractéristiques de la sentence, mais aussi cette féconde tension avec une écriture « proche de l'homme ».
-En effet l'auteur parle de lui, pour parler de tous, ou vice-versa, et ainsi réussit le tour de force de se dissimuler dans son écriture sous l'universel, ou d'y dissimuler l'universel sous le particulier.
-Cela fait aussi partie de l'agréabilité en parlant : il est beaucoup plus facile de digérer une remarque difficile si elle ne s'adresse pas directement aux personnes visées, si elle prend pour faire son chemin la figure de l'auteur, de la généralité ou des enfants.
-En résumé durant cette partie de mon texte j'ai essayé de montrer comment l'étiquette moraliste attribuée à Pascal se doit d'être nuancée, tantôt sur un même fragment il s'avère moraliste pour certaines raisons, et pour d'autres ne l'est pas.
+En effet, l'auteur parle de lui, pour parler de tous, ou vice-versa, et ainsi réussit le tour de force de se dissimuler dans son écriture sous l'universel, ou d'y dissimuler l'universel sous le particulier.
+Cela fait aussi partie de l'agréabilité : il est beaucoup plus facile de digérer une remarque difficile si elle ne s'adresse pas directement aux personnes visées, si elle prend pour faire son chemin la figure de l'auteur, de la généralité ou des enfants.
+En résumé, durant cette partie de mon texte j'ai essayé de montrer comment l'étiquette moraliste attribuée à Pascal se doit d'être nuancée, tantôt sur un même fragment il s'avère moraliste pour certaines raisons, et pour d'autres ne l'est pas.
 Par exemple, pour le fragment du pari, il est moraliste en ce qu'il s'adresse en honnête homme à des libertins, et par le fait même développe un raisonnement libertin axé sur le jeu.
 Honnête homme et libertin sont, je le rappelle, deux caractéristiques du moraliste.
-Mais d'un autre côté ne l'est pas, puisqu'il philosophe et dialogue en un long texte plus qu'il ne peint des mœurs en petites maximes.
+Mais d'un autre côté, il ne l'est pas, puisqu'il philosophe et dialogue en un long texte plus qu'il ne peint des mœurs en petites maximes.
 
 ### Être moraliste ou ne l'être pas
 
@@ -90,7 +90,7 @@ Or dans ce fragment, Pascal fait un et l'autre : « Travaillons donc à bien p
 Pascal nous indique la morale, et nous prescrit quoi faire pour y adhérer.
 De plus, la plupart du temps, il s'écarte aussi d'un moraliste quand il parle de religion.
 Plusieurs fragments servent à appuyer la religion chrétienne, ou parlent de la religion en général, par exemple, pour ne prendre que celui-là : « Les prophètes on prédit, et n'ont pas été prédits. [...] Jésus-Christ prédit et prédisant[^41] ».
-Or ces genres de fragments ne se rapportent pas vraiment aux mœurs ni à la nature humaine. À la limite le style est celui d'une maxime, mais le constat s'arrête là.
+Or ces genres de fragments ne se rapportent pas vraiment aux mœurs ni à la nature humaine. À la limite, le style est celui d'une maxime, mais le constat s'arrête là.
 Pour d'autres fragments, évidemment, Pascal est pleinement moraliste.
 Comme pour ceux sur la religion, je ne les citerai pas tous, mais nous en retrouvons plusieurs dans les *Pensées*. « Peu de chose nous console parce que peu de chose nous afflige[^42] ».
 Cette maxime, simple à se souvenir par son parallélisme, courte, illustre, par le nous, comment nous nous sentons par rapport aux choses qui nous affligent.

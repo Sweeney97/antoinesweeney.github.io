@@ -101,9 +101,9 @@ Mais même lorsque certains fragments semblent moralistes, si ce n'est pas qu'il
 
 ### Conclusion
 
-Nous avons donc vu que plusieurs caractéristiques se rapportent aux écrivains moralistes : écrivains qui décrivent les mœurs, s'attardent sur la nature humaine, mondains (honnête homme ou libertin), écriture de style descriptif, sous forme de maximes, d'une écriture simple, accessible et vraie (dans ses descriptions).
+Nous avons donc vu que plusieurs caractéristiques se rapportent aux écrivains moralistes : écrivains qui décrivent les mœurs, s'attardent sur la nature humaine, mondains (honnête homme ou libertin), écriture de style descriptif, sous forme de maximes, simple, accessible et vraie (dans ses descriptions).
 L'aspect fragmentaire pour Pascal est incertain, puisque son ouvrage fut inachevé avant sa mort, donc peut-être la nature fragmentaire est-elle accidentelle.
-Certains fragments des *Pensées* ne sont aucunement moralistes, généralement quand Pascal parle de la religion chrétienne, ce pourquoi elle est supérieure aux autres religions, car son ouvrage est construit sous forme de traité apologétique.
+Certains fragments des *Pensées* ne sont aucunement moralistes, généralement quand Pascal parle de la religion chrétienne, en quoi elle est supérieure aux autres religions, car son ouvrage est construit sous forme de traité apologétique.
 Certains fragments partagent des caractéristiques des moralistes, mais ne le sont pas entièrement, par exemple avec le pari.
 Ce fragment relève d'une écriture moraliste par sa mondanité, mais s'en éloigne par sa longueur et ses réflexions philosophiques.
 D'autre part l'auteur dit dans les *Pensées* que « la science des mœurs [le console] toujours de l'ignorance des sciences extérieures[^44] » : ainsi l'auteur se désigne comme un moraliste en quelque sorte.

@@ -74,7 +74,7 @@ Pourtant, dans la citation, jamais il n’est mentionné que les idées ne peuve
 Ce qui mène à l’erreur où Danto prend deux objets similaires en disant qu’ils renvoient à la même expérience esthétique.
 À cela, précisons : ils procurent le même plaisir que s’ils sont vus de la même manière; que s’ils sont vus artistiquement.
 Nous avons donc une belle fleur cueillie et une, identique, qui est une œuvre d’art.
-Si l'on reprend la thèse de Schopenhauer, on peut comprendre que les deux entités renvoient à des expériences esthétiques complètement différentes en raison de l’interprétation, où du sens dont elles sont investies à moins que l’entité n’étant pas une œuvre soit vu artistiquement, et qu’elle renvoie à la même idée.
+Si l'on reprend la thèse de Schopenhauer, on peut comprendre que les deux entités renvoient à des expériences esthétiques complètement différentes en raison de l’interprétation, où du sens dont elles sont investies à moins que l’entité n’étant pas une œuvre soit vue artistiquement, et qu’elle renvoie à la même idée.
 En conclusion, je pense que Danto était plus près d’une définition de l’art lorsqu’il parlait de signification, avant qu’il n’introduise l’interprétation.
 
 ### Bibliographie

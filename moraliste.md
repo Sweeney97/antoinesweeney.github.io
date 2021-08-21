@@ -107,7 +107,7 @@ Certains fragments des *Pensées* ne sont aucunement moralistes, généralement 
 Certains fragments partagent des caractéristiques des moralistes, mais ne le sont pas entièrement, par exemple avec le pari.
 Ce fragment relève d'une écriture moraliste par sa mondanité, mais s'en éloigne par sa longueur et ses réflexions philosophiques.
 D'autre part, l'auteur dit dans les *Pensées* que « la science des mœurs [le console] toujours de l'ignorance des sciences extérieures[^44] » : ainsi, l'auteur se désigne comme un moraliste en quelque sorte.
-Finalement certains fragments sont purement moralistes, quand Pascal nous parle de la vanité par exemple, ou de la nature humaine, mais à l'aide de petits fragments qui ressemblent à des maximes.
+Finalement, certains fragments sont purement moralistes, quand Pascal nous parle de la vanité par exemple, ou de la nature humaine, mais à l'aide de petits fragments qui ressemblent à des maximes.
 En résumé, puisqu'il pense et écrit la nature humaine, Pascal est catégorisé moraliste, mais, on l'a vu, il échappe en partie à cette étiquette.
 Toutefois, si l'on porte un regard d'ensemble sur son œuvre, Pascal a ouvert une voie, comme les autres moralistes qui par leur critique du droit divin[^45] et des formes d'autorité[^46], ont poussé vers une centralisation de l'individu qui passe par le libre examen[^47].
 Le moraliste est cet « auteur sans autorité [qui] participe à l'émancipation d'un espace proprement littéraire[^48].

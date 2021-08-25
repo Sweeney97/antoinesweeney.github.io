@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
@@ -39,7 +40,7 @@ texte.select();
 function SubmitFonc() {     // début de la fonction liée au bouton
 
 var code_source = document.getElementById("texte").value;
-   
+
 
 if (code_source == "") {
 
@@ -59,19 +60,19 @@ if (code_source == "") {
    document.getElementById('texte_sortie');
    texte_sortie.innerText = keywords;
    return true; }
-   
-  
+
+
 code_source = code_source.replace(/\\/g, "");
 code_source = code_source.replace(/"/g, "");
 code_source = code_source.replace(/:/g, " ");
 code_source = code_source.replace(/,/g, " ");
 
 code_source = code_source.split(' ');
-   
-if (code_source.length < 500) {
+
+if (code_source.length < 1000) {
    alert("Il semblerait qu'il y ait une erreur avec le code source");
    return true;   }
-   
+
 var position = code_source.indexOf("keywords");
 
 position = position + 1;
@@ -83,17 +84,17 @@ for (var i = position; i < (position + 155); i++)
        var end = i;
        break;
     }
-   
-   if (end == i){ break;
-   else if (i == (position + 155))
+
+   if (end == i) break;
+   else if (i == (position + 150)) {
                  alert("Il semblerait qu'il y ait une erreur avec le code source");
                  return true; }
-   
-}   
-   
+
+}
+
 var check = end - position;
 
-  
+
 keywords = code_source.slice(position, end);
 
 var tag1 = document.getElementById("format").value;

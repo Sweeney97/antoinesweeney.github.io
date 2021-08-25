@@ -20,7 +20,7 @@
 </select>
 
 <br>
-<form action="javascript:compteur();">
+<form>
 <h2>Veuillez coller le code-source.</h2>
 <p><textarea style="background-color:#eeeeee"; id="texte" rows="8" cols="60"></textarea></p>
 <input type="button" value="Soumettre" onclick="SubmitFonc()">
@@ -33,30 +33,16 @@
 
 <script  type='text/javascript'>
 
-var code_source = null;
-var keywords = null;
-
 document.getElementById("texte");
 texte.select();
 
 function SubmitFonc() {     // début de la fonction liée au bouton
 
-
-if (document.getElementById("texte").value == "") {
-    alert("Veuillez coller un code-source.");
-    return;
-    }
-
-
-
-
-
-code_source = document.getElementById("texte").value;
+var code_source = document.getElementById("texte").value;
 
 code_source = code_source.replace(/\\/g, "");
 code_source = code_source.replace(/"/g, "");
 code_source = code_source.replace(/:/g, " ");
-code_source = code_source.replace(/[\[\]']+/g, "");
 code_source = code_source.replace(/,/g, " ");
 
 code_source = code_source.split(' ');
@@ -65,17 +51,23 @@ var position = code_source.indexOf("keywords");
 
 position = position + 1;
 
-var end = code_source.indexOf("modelReleaseInfo", position);
+for (var i = position; i < code_source.length; i++)
+{
+    if (code_source[i].indexOf(']') != -1)
+    {
+       var end = i;
+       break;
+    }
+}   
+   
+var check = end - position;
 
-if (end == -1) {
- end = code_source.indexOf("rRated", position);
-}
+if (check > 150 || check < 0) {
 
-if (end > (position + 300)) {
-
-keywords = "il y a eu une erreur dans le processus";
+alert("Il y a eu une erreur durant le processus");
 return true;
-}
+                                              }   
+   
 
 keywords = code_source.slice(position, end);
 
@@ -86,7 +78,7 @@ keywords.unshift(tag1);
 keywords.unshift(tag2);
 
 keywords = keywords.toString();
-
+keywords = keywords.replace(/[\[\]']+/g, "");
 keywords = keywords.replace(/,/g, ", ");
 
 
@@ -117,7 +109,7 @@ texte_sortie.innerText = keywords;
 <br>
 <br>
 
-Note: si l'image contient plus de 300 mots-clés, ce qui m'étonnerait, le processus est arrêté et un message d'erreur s'affiche. Cela pourrait arriver aussi si les données d'une image sont structurées différemment des modèles que j'ai utilisés.
+Note: si l'image contient plus de 150 mots-clés, ce qui m'étonnerait, le processus est arrêté et un message d'erreur s'affiche. Cela pourrait arriver aussi si les données d'une image sont structurées différemment des modèles que j'ai utilisés.
 Merci de me communiquer les images dont l'extraction des mots-clés a échoué afin que je puisse améliorer mon script.
 <br>
 <br>

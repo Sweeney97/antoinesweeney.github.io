@@ -40,19 +40,8 @@ function SubmitFonc() {     // début de la fonction liée au bouton
 
 var code_source = document.getElementById("texte").value;
    
-  
-code_source = code_source.replace(/\\/g, "");
-code_source = code_source.replace(/"/g, "");
-code_source = code_source.replace(/:/g, " ");
-code_source = code_source.replace(/,/g, " ");
 
-code_source = code_source.split(' ');
-   
-if (code_source != null && code_source.length < 500) {
-   alert("Il semblerait qu'il y ait une erreur avec le code source");
-   return true;   }
-   
-if (code_source == null) {
+if (code_source == "") {
 
    keywords = [];
 
@@ -71,7 +60,18 @@ if (code_source == null) {
    texte_sortie.innerText = keywords;
    return true; }
    
+  
+code_source = code_source.replace(/\\/g, "");
+code_source = code_source.replace(/"/g, "");
+code_source = code_source.replace(/:/g, " ");
+code_source = code_source.replace(/,/g, " ");
 
+code_source = code_source.split(' ');
+   
+if (code_source.length < 500) {
+   alert("Il semblerait qu'il y ait une erreur avec le code source");
+   return true;   }
+   
 var position = code_source.indexOf("keywords");
 
 position = position + 1;
@@ -84,8 +84,9 @@ for (var i = position; i < (position + 155); i++)
        break;
     }
    
+   if (i == (position + 155)) {
    alert("Il semblerait qu'il y ait une erreur avec le code source");
-   return true;
+   return true; }
    
 }   
    

@@ -84,9 +84,10 @@ for (var i = position; i < (position + 155); i++)
        break;
     }
    
-   if (i == (position + 155)) {
-   alert("Il semblerait qu'il y ait une erreur avec le code source");
-   return true; }
+   if (end == i){ break;
+   else if (i == (position + 155))
+                 alert("Il semblerait qu'il y ait une erreur avec le code source");
+                 return true; }
    
 }   
    

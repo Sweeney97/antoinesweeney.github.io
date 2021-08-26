@@ -44,9 +44,11 @@ function SubmitFonc() {     // début de la fonction liée au bouton
 var code_source = document.getElementById("texte").value;
 var format = document.getElementById("format").value;
 var attribution= document.getElementById("attribution").value;
+var keywords; 
+
 
 if (code_source == "" &&  attribution == "automatique" || code_source == "" && format == "automatique") {
-alert("Pour la détection automatique, un code-source doit être entré. Sinon, renseignez manuellement les étiquettes.")
+alert("Pour la détection automatique, un code-source doit être entré. Sinon, renseignez manuellement les étiquettes.");
 return true;  }
 else if (code_source == "") {
 
@@ -83,11 +85,13 @@ if (position <= 0) {
    alert("Il semblerait qu'il y ait une erreur avec le code source");
    return true;   }
 
+var end;  
+   
 for (var i = position; i < (position + 155); i++)
 {
     if (code_source[i].indexOf(']') != -1)
     {
-       var end = i;
+       end = i;
        break;
     }
 
@@ -133,8 +137,8 @@ position3 = position3 + 1;
 var h = code_source[position3];
 h = h - "";
 
-  if (w - h == 0 || w - h > 0) format = "horizontal"
-  else format = "vertical"
+  if (w - h == 0 || w - h > 0) format = "horizontal";
+  else format = "vertical";
 }
 
 keywords.unshift(attribution);

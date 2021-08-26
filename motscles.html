@@ -76,9 +76,12 @@ if (code_source.length < 1000) {
    alert("Il semblerait qu'il y ait une erreur avec le code source");
    return true;   }
 
-var position = code_source.indexOf("keywords");
-
+var position = code_source.indexOf("keywords");     
 position = position + 1;
+   
+if (position <= 0) {
+   alert("Il semblerait qu'il y ait une erreur avec le code source");
+   return true;   }
 
 for (var i = position; i < (position + 155); i++)
 {
